@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://github.com/shisuidata/Forge"><strong>Forge</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/shisuidata/ss-data-skills"><strong>Data Skills</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://ss-data.cc"><strong>Website</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://pro.ss-data.cc"><strong>Knowledge Base</strong></a>
+  <a href="https://ss-data.cc"><strong>中文官网</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://pro.ss-data.cc"><strong>中文知识库</strong></a>
 </p>
 
 <br>
@@ -63,9 +63,14 @@ A growing, open-source collection of repeatable methods for requirements, metric
 
 - **Building an agent against a real database?** Start with [Forge](https://github.com/shisuidata/Forge).
 - **Improving how you or your team works with data?** Start with [Data Skills](https://github.com/shisuidata/ss-data-skills).
-- **Looking for Chinese-language learning and field notes?** Visit [ss-data.cc](https://ss-data.cc) or the [full-stack data knowledge base](https://pro.ss-data.cc).
-
 <br>
+
+## 中文内容与学习
+
+如果你更习惯中文，或者正在寻找面向数据从业者的系统化内容：
+
+- [**拾穗数据**](https://ss-data.cc)：面向中文数据从业者的内容与实践社区。
+- [**数据领域全栈知识库**](https://pro.ss-data.cc)：AI 时代，从数据基本功到前沿技术。
 
 ---
 
