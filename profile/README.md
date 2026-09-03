@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shisuidata/.github/main/profile/assets/shisui-data-header.svg" alt="Shisui Data — From raw signals to trustworthy decisions" width="100%">
+  <img src="https://raw.githubusercontent.com/shisuidata/.github/main/profile/assets/shisui-data-header-v1.svg" alt="Shisui Data — From raw signals to trustworthy decisions" width="100%">
 </p>
 
 <p align="center">
